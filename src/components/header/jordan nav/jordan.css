@@ -11,12 +11,79 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    max-width:1024px;
+    max-width:1200px;
     align-items: center;
 }
 
 .left-jordan{
 
     margin-left: 2rem;
+    
 }
+
+.brand-icons{
+
+    margin-left: 1.5rem;
+    font-size: 1.4rem;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+
+}
+
+.brand-icons:hover{
+
+    color:#afa5a5
+}
+
+.navigations{
+
+    display: flex;
+    flex-direction: row;
+    gap:2rem;
+}
+
+.navigations span{
+
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    font-size: 13px;
+}
+
+.navigations .brand-titles:hover{
+
+    color:#afa5a5;
+}
+
+.help{
+
+    position: relative;
+}
+
+.showhelp{
+
+    position: absolute;
+    margin-top: 1rem;
+    transition: all 0.2s ease-in-out 0.2ms;
+    width:200px;
+    background-color: whitesmoke;
+    padding: 2rem;
+}
+
+.showhelp .title{
+
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.showhelp .list{
+
+    text-align: center;
+   
+}
+
+.list p{
+
+    margin-bottom: 10px;
+}
+
 
