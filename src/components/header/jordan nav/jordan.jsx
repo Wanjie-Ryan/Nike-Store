@@ -7,17 +7,27 @@ import {GiConverseShoe} from 'react-icons/gi'
 function Jordan() {
 
     const [element, setElement] = useState(false)
+   
 
     const showFeature =()=>{
 
-        setElement(true)
+        
+            
+            setElement(true)
+        
     }
 
     const hideFeature = ()=>{
 
-        setElement(false)
+        setTimeout(()=>{
+
+            setElement(false)
+        },10000)
+        
     }
 
+
+   
 
   return (
 
@@ -61,28 +71,28 @@ function Jordan() {
 
                             <span className='brand-titles' onMouseOver={showFeature} onMouseOut={hideFeature}>Help</span>
 
-                            {element && <div className="showhelp">
+                            <div className={` ${element? 'showhelp' : 'hidehelp'}`}>
+
+                               
+                                    <span className="title">Help</span>
+
+                                    <span className="list">
+
+                                        <p>Order</p>
+                                        <p>Shipping & Delivery</p>
+                                        <p>Returns</p>
+                                        <p>Size Charts</p>
+                                        <p>Contact Us</p>
+                                        <p>Privacy Policy</p>
+                                        <p>Terms of Sales</p>
+                                        <p>Terms of Use</p>
+                                        <p>Send Us Feedback</p>
 
 
-                                <span className="title">Help</span>
 
-                                <span className="list">
+                                    </span>
 
-                                    <p>Order</p>
-                                    <p>Shipping & Delivery</p>
-                                    <p>Returns</p>
-                                    <p>Size Charts</p>
-                                    <p>Contact Us</p>
-                                    <p>Privacy Policy</p>
-                                    <p>Terms of Sales</p>
-                                    <p>Terms of Use</p>
-                                    <p>Send Us Feedback</p>
-
-
-
-                                </span>
-
-                            </div>}
+                            </div>
 
 
                         </div>

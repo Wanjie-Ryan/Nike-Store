@@ -69,6 +69,11 @@
     padding: 2rem;
 }
 
+.hidehelp{
+
+    display: none;
+}
+
 .showhelp .title{
 
     font-size: 15px;
@@ -84,6 +89,25 @@
 .list p{
 
     margin-bottom: 10px;
+    transition: all 0.5s ease-in-out;
 }
+
+.list p:hover{
+
+    color:#afa5a5;
+}
+
+@media screen and (max-width:500px){
+
+
+    .jordan{
+
+        width:100%;
+    }
+    
+}
+
+
+
 
 
