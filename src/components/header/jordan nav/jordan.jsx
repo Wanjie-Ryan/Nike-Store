@@ -37,8 +37,16 @@ function Jordan() {
                 <div className="right-jordan">
 
 
+                    <div className="navigations">
+
+                        <p>Find a Store</p>
+                        <p>Help</p>
+                        <p>Join Us</p>
+                        <p>Sign In</p>
 
 
+
+                    </div>
 
 
                 </div>

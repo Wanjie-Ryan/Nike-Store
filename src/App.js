@@ -1,5 +1,5 @@
 import React from 'react'
-import JordanNav from './components/header/jordan nav/jordan'
+import Header from './components/header/compiled header/header'
 
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
     <>
 
 
-      <JordanNav/>
+      <Header/>
     
 
 
