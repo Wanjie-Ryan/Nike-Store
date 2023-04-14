@@ -38,25 +38,25 @@ function Nike() {
 
               </div>
 
-              <div className="men">
+              <div className="new">
 
                 <label>men</label>
 
               </div>
 
-              <div className="women">
+              <div className="new">
 
                 <label>Women</label>
 
               </div>
 
-              <div className="kids">
+              <div className="new">
 
                 <label>Kids</label>
 
               </div>
 
-              <div className="accessories">
+              <div className="new">
 
                 <label>Accessories</label>
 
@@ -87,14 +87,7 @@ function Nike() {
                 <AiOutlineHeart/>
                 <BsBag/>
 
-
-
-
-
-
               </div>
-
-
 
 
             </div>
