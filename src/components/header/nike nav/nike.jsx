@@ -1,6 +1,11 @@
 import React from 'react'
 import './nike.css'
 import {SiNike} from 'react-icons/si'
+import {AiOutlineHeart} from 'react-icons/ai'
+import {BsBag} from 'react-icons/bs'
+
+
+
 
 function Nike() {
 
@@ -42,7 +47,25 @@ function Nike() {
               <div className="women">
 
                 <label>Women</label>
-                
+
+              </div>
+
+              <div className="kids">
+
+                <label>Kids</label>
+
+              </div>
+
+              <div className="accessories">
+
+                <label>Accessories</label>
+
+              </div>
+
+              <div className="sale">
+
+                <label>Sale</label>
+
               </div>
 
 
@@ -52,6 +75,24 @@ function Nike() {
 
 
             <div className="right">
+
+              <div className="search">
+
+                <input type="text" className="search" placeholder='search'/>
+
+              </div>
+
+              <div className="icons">
+
+                <AiOutlineHeart/>
+                <BsBag/>
+
+
+
+
+
+
+              </div>
 
 
 

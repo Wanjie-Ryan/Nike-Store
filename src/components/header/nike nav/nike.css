@@ -1,0 +1,16 @@
+.nike{
+
+    display: flex;
+    flex-direction: row;
+    width:100%;
+}
+
+.nike-main{
+
+    display: flex;
+    flex-direction: row;
+    /* max-width:1024px; */
+    
+    background-color: red;
+
+}
