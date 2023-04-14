@@ -19,7 +19,43 @@ function Nike() {
 
             <div className="left">
 
+              <SiNike/>
               
+            </div>
+
+
+            <div className="middle">
+
+              <div className="new">
+
+                <label>New & Featured</label>
+
+
+              </div>
+
+              <div className="men">
+
+                <label>men</label>
+
+              </div>
+
+              <div className="women">
+
+                <label>Women</label>
+                
+              </div>
+
+
+
+
+            </div>
+
+
+            <div className="right">
+
+
+
+
             </div>
 
 
