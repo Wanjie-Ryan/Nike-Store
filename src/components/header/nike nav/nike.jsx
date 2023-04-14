@@ -24,7 +24,7 @@ function Nike() {
 
             <div className="left">
 
-              <SiNike/>
+              <SiNike className='nike-icon'/>
               
             </div>
 

@@ -1,7 +1,6 @@
 .nike{
 
-    display: flex;
-    flex-direction: row;
+    
     width:100%;
 }
 
@@ -10,7 +9,21 @@
     display: flex;
     flex-direction: row;
     /* max-width:1024px; */
+    justify-content: space-between;
     
-    background-color: red;
+}
 
+.left{
+    margin-left: 2rem;
+
+}
+
+.left .nike-icon{
+
+    font-size: 3.4rem;
+}
+
+.middle{
+
+    
 }
