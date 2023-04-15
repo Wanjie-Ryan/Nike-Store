@@ -133,9 +133,25 @@
 
     position: absolute;
     display: flex;
+    flex-direction: row;
     margin-top: 3rem;
-    width: 100%;
+    width: 75vw;
     background-color: red;
-    
+    justify-content: space-between;
+    padding:3rem;
+}
+
+.newarrivals-featured{
+
+    display: flex;
+    flex-direction: column;
+    gap:2rem;
+}
+
+.gender{
+
+    display: flex;
+    flex-direction: column;
+    gap:2rem;
 }
 

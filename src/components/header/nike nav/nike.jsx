@@ -37,17 +37,31 @@ function Nike() {
 
                 <div className='new-featured'>
 
-                  <span className="new-arrivals">
+                    <div className="newarrivals-featured">
 
-                    <p className='title'>New Arrivals</p>
+                      <div className="new-arrivals">
 
-                    <p>Shop All</p>
-                    <p>New & Upcoming drops</p>
-                   
-                  </span>
+                        <p className='title'>New Arrivals</p>
+
+                        <p>Shop All</p>
+                        <p>New & Upcoming drops</p>
+                      
+                      </div>
+
+                      <div className="featured">
+
+                        <p className="title">Featured</p>
+
+                        <p>New in Running</p>
+                        <p>Member Exclusive</p>
+                        <p>Mother's day shopping</p>
+
+                      </div>
+
+                    </div>
 
 
-                  <span className="drops">
+                  <div className="drops">
 
                     <p className="title">Drops</p>
 
@@ -56,49 +70,45 @@ function Nike() {
                     <p>Nike lab</p>
                     <p>Drops 101</p>
                     
-                  </span>
+                  </div>
 
 
-                  <span className="newformen">
-
-                    <p className='title'>New for Men</p>
-
-                    <p>Shoes</p>
-                    <p>Clothing</p>
+                    <div className="gender">
 
 
-                  </span>
+
+                      <div className="newformen">
+
+                        <p className='title'>New for Men</p>
+
+                        <p>Shoes</p>
+                        <p>Clothing</p>
 
 
-                  <span className="featured">
-
-                    <p className="title">Featured</p>
-
-                    <p>New in Running</p>
-                    <p>Member Exclusive</p>
-                    <p>Mother's day shopping</p>
-
-                  </span>
-
-                  <span className="newforwomen">
-
-                    <p className="title">New for Women</p>
-
-                    <p>shoes</p>
-                    <p>Clothing</p>
-
-                  </span>
-
-                  <span className="newforkids">
-
-                    <p className="title">New for Kids</p>
-
-                    <p>Shoes</p>
-                    <p>Clothing</p>
+                      </div>
 
 
-                  </span>
 
+                      <div className="newforwomen">
+
+                        <p className="title">New for Women</p>
+
+                        <p>shoes</p>
+                        <p>Clothing</p>
+
+                      </div>
+
+                      <div className="newforkids">
+
+                        <p className="title">New for Kids</p>
+
+                        <p>Shoes</p>
+                        <p>Clothing</p>
+
+
+                      </div>
+
+                    </div>
 
 
 
