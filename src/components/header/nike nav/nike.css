@@ -122,12 +122,5 @@
     margin-left: 2rem;
     font-size: 1.6rem;
     cursor: pointer;
-    transition: all 0.3s ease-in-out;
 }
 
-.icon-heart:hover{
-
-    background-color: #dfdbdb;
-    padding:1.2rem;
-    border-radius:2rem;
-}

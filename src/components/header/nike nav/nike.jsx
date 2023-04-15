@@ -35,6 +35,30 @@ function Nike() {
 
                 <label>New & Featured</label>
 
+                <div className='new-featured'>
+
+                  <span className="new-arrivals">
+
+                    <p className='title'>New Arrivals</p>
+
+                    <p>Shop All</p>
+                    <p>New & Upcoming drops</p>
+                   
+                  </span>
+
+
+                  <span className="drops">
+
+                    
+
+                  </span>
+
+
+
+
+
+                </div>
+
 
               </div>
 
