@@ -78,15 +78,23 @@ function Nike() {
 
               <div className="search">
 
-                <AiOutlineSearch className ='search-icon'/>
-                <input type="text" className="search-box" placeholder='search'/>
+                  <div className='icon-search'>
+
+                    <AiOutlineSearch className ='search-icon'/>
+                  </div>
+
+                  <div className='input-search'>
+
+                    <input type="text" className="search-box" placeholder='search'/>
+                  </div>
+                    
 
               </div>
 
-              <div className="icons">
+              <div className="icons-nike">
 
-                <AiOutlineHeart/>
-                <BsBag/>
+                <AiOutlineHeart className='icon-heart'/>
+                <BsBag className='icon-heart'/>
 
               </div>
 
