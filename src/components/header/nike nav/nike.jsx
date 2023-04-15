@@ -78,7 +78,7 @@ function Nike() {
 
               <div className="search">
 
-                <input type="text" className="search" placeholder='search'/>
+                <input type="text" className="search-box" placeholder='search'/>
 
               </div>
 
