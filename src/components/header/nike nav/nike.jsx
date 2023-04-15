@@ -1,7 +1,7 @@
 import React from 'react'
 import './nike.css'
 import {SiNike} from 'react-icons/si'
-import {AiOutlineHeart} from 'react-icons/ai'
+import {AiOutlineHeart,AiOutlineSearch} from 'react-icons/ai'
 import {BsBag} from 'react-icons/bs'
 
 
@@ -78,6 +78,7 @@ function Nike() {
 
               <div className="search">
 
+                <AiOutlineSearch className ='search-icon'/>
                 <input type="text" className="search-box" placeholder='search'/>
 
               </div>
