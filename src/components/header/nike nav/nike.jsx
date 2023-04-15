@@ -49,7 +49,53 @@ function Nike() {
 
                   <span className="drops">
 
+                    <p className="title">Drops</p>
+
+                    <p>AJ1</p>
+                    <p>Dunks</p>
+                    <p>Nike lab</p>
+                    <p>Drops 101</p>
                     
+                  </span>
+
+
+                  <span className="newformen">
+
+                    <p className='title'>New for Men</p>
+
+                    <p>Shoes</p>
+                    <p>Clothing</p>
+
+
+                  </span>
+
+
+                  <span className="featured">
+
+                    <p className="title">Featured</p>
+
+                    <p>New in Running</p>
+                    <p>Member Exclusive</p>
+                    <p>Mother's day shopping</p>
+
+                  </span>
+
+                  <span className="newforwomen">
+
+                    <p className="title">New for Women</p>
+
+                    <p>shoes</p>
+                    <p>Clothing</p>
+
+                  </span>
+
+                  <span className="newforkids">
+
+                    <p className="title">New for Kids</p>
+
+                    <p>Shoes</p>
+                    <p>Clothing</p>
+
 
                   </span>
 

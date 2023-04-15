@@ -33,6 +33,11 @@
     
 }
 
+.new{
+
+    position: relative;
+}
+
 
 .new label{
 
@@ -122,5 +127,15 @@
     margin-left: 2rem;
     font-size: 1.6rem;
     cursor: pointer;
+}
+
+.new-featured{
+
+    position: absolute;
+    display: flex;
+    margin-top: 3rem;
+    width: 100%;
+    background-color: red;
+    
 }
 
