@@ -48,13 +48,15 @@ function Nike() {
                       
                       </div>
 
-                      <div className="featured">
+                      <div className="new-arrivals">
 
                         <p className="title">Featured</p>
 
                         <p>New in Running</p>
                         <p>Member Exclusive</p>
                         <p>Mother's day shopping</p>
+
+                        {/* new items on the block to be removed */}
 
                       </div>
 
@@ -142,7 +144,7 @@ function Nike() {
 
               </div>
 
-              <div className="sale">
+              <div className="new">
 
                 <label>Sale</label>
 
