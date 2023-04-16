@@ -56,7 +56,6 @@ function Nike() {
                         <p>Member Exclusive</p>
                         <p>Mother's day shopping</p>
 
-                        {/* new items on the block to be removed */}
 
                       </div>
 
