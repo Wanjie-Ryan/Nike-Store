@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './nike.css'
 import {SiNike} from 'react-icons/si'
 import {AiOutlineHeart,AiOutlineSearch} from 'react-icons/ai'
@@ -8,6 +8,29 @@ import {BsBag} from 'react-icons/bs'
 
 
 function Nike() {
+
+
+  const [showelement, setshowelement] = useState(false)
+
+
+
+  const showitem =()=>{
+
+    setshowelement(true)
+
+  }
+
+  const hideitem =()=>{
+
+
+    setTimeout(()=>{
+
+      setshowelement(false)
+
+    },10000)
+
+  
+  }
 
 
 
@@ -33,9 +56,9 @@ function Nike() {
 
               <div className="new">
 
-                <label>New & Featured</label>
+                <label onMouseOver={showitem} onMouseOut={hideitem}>New & Featured</label>
 
-                <div className='new-featured'>
+                <div className={`${showelement ? 'new-featured' : 'hide-newFeatured'}`}>
 
                     <div className="newarrivals-featured">
 
