@@ -62,7 +62,7 @@ function Nike() {
                     </div>
 
 
-                  <div className="drops">
+                  <div className="new-arrivals">
 
                     <p className="title">Drops</p>
 
@@ -78,7 +78,7 @@ function Nike() {
 
 
 
-                      <div className="newformen">
+                      <div className="new-arrivals">
 
                         <p className='title'>New for Men</p>
 
@@ -90,7 +90,7 @@ function Nike() {
 
 
 
-                      <div className="newforwomen">
+                      <div className="new-arrivals">
 
                         <p className="title">New for Women</p>
 
@@ -99,7 +99,7 @@ function Nike() {
 
                       </div>
 
-                      <div className="newforkids">
+                      <div className="new-arrivals">
 
                         <p className="title">New for Kids</p>
 
