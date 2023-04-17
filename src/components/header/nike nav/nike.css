@@ -147,6 +147,11 @@
     padding:3rem;
 }
 
+.hide-newFeatured{
+
+    display:none;
+}
+
 .newarrivals-featured{
 
     display: flex;
@@ -166,5 +171,18 @@
     margin-bottom: 1rem;
     font-weight: 600;
     cursor: pointer;
+}
+
+.new-arrivals p{
+
+    cursor: pointer;
+    margin-bottom: 5px;
+    transition: all 0.3s ease-in-out;
+}
+
+.new-arrivals p:hover{
+
+    color:#a8a5a5;
+
 }
 

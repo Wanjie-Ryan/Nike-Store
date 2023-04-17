@@ -41,7 +41,7 @@ function Nike() {
 
                       <div className="new-arrivals">
 
-                        <p className='title'>New Arrivals</p>
+                        <h4 className='title'>New Arrivals</h4>
 
                         <p>Shop All</p>
                         <p>New & Upcoming drops</p>
@@ -50,7 +50,7 @@ function Nike() {
 
                       <div className="new-arrivals">
 
-                        <p className="title">Featured</p>
+                        <h4 className="title">Featured</h4>
 
                         <p>New in Running</p>
                         <p>Member Exclusive</p>
@@ -64,7 +64,7 @@ function Nike() {
 
                   <div className="new-arrivals">
 
-                    <p className="title">Drops</p>
+                    <h4 className="title">Drops</h4>
 
                     <p>AJ1</p>
                     <p>Dunks</p>
@@ -80,7 +80,7 @@ function Nike() {
 
                       <div className="new-arrivals">
 
-                        <p className='title'>New for Men</p>
+                        <h4 className='title'>New for Men</h4>
 
                         <p>Shoes</p>
                         <p>Clothing</p>
@@ -92,7 +92,7 @@ function Nike() {
 
                       <div className="new-arrivals">
 
-                        <p className="title">New for Women</p>
+                        <h4 className="title">New for Women</h4>
 
                         <p>shoes</p>
                         <p>Clothing</p>
@@ -101,7 +101,7 @@ function Nike() {
 
                       <div className="new-arrivals">
 
-                        <p className="title">New for Kids</p>
+                        <h4 className="title">New for Kids</h4>
 
                         <p>Shoes</p>
                         <p>Clothing</p>
