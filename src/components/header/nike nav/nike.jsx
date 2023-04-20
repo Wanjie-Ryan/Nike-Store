@@ -144,6 +144,10 @@ function Nike() {
 
               </div>
 
+                    {/* MEN SECTION */}
+
+
+
               <div className="new">
 
                 <label onMouseOver={showitem} onMouseOut={hideitem}>Men</label>
@@ -153,19 +157,18 @@ function Nike() {
 
                     <div className="newarrivals-featured">
 
-                      <div className="new-arrivals">
+                      {/* <div className="new-arrivals">
 
                         <h4 className="title">New Arrivals</h4>
 
                         <p>New Styles for Summer</p>
 
 
-                      </div>
+                      </div> */}
 
 
-                      <div className="newarrivals-featured">
 
-                        <div className="new-arrivals">
+                        {/* <div className="new-arrivals">
 
                           <h4 className="title">Featured</h4>
 
@@ -186,41 +189,24 @@ function Nike() {
 
 
 
-                        </div>
-
-
-
-
-                      </div>
-
-
-                      
+                        </div> */}
 
 
 
 
 
+
+                    
                     </div>
-
-
-
-
-
-
-
-
 
 
                 </div>
 
 
 
-
-
-
-
-
               </div>
+
+
 
               <div className="new">
 
