@@ -146,7 +146,45 @@ function Nike() {
 
               <div className="new">
 
-                <label>men</label>
+                <label>Men</label>
+
+
+                <div className={`${showelement ? 'new-featured' : 'hide-newFeatured'}`}>
+
+                    <div className="newarrivals-featured">
+
+                      <div className="new-arrivals">
+
+                        
+
+                      </div>
+
+
+                      
+
+
+
+
+
+                    </div>
+
+
+
+
+
+
+
+
+
+
+                </div>
+
+
+
+
+
+
+
 
               </div>
 
