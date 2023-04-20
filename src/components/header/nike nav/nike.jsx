@@ -152,65 +152,33 @@ function Nike() {
 
                 <label onMouseOver={showitem} onMouseOut={hideitem}>Men</label>
 
+                
 
-                <div className={`${showelement ? 'new-featured' : 'hide-newFeatured'}`}>
+                <div className=  {`${showelement ? 'new-featured' : 'hide-newFeatured'}`} >
 
                     <div className="newarrivals-featured">
 
-                      {/* <div className="new-arrivals">
-
-                        <h4 className="title">New Arrivals</h4>
-
-                        <p>New Styles for Summer</p>
-
-
-                      </div> */}
-
-
-
-                        {/* <div className="new-arrivals">
-
-                          <h4 className="title">Featured</h4>
-
-                          <p>Tech Fleece for Summer</p>
-                          <p>Mother's day shopping</p>
-                          <p>Best sellers</p>
-                          <p>Jordan</p>
-
-
-                        </div>
-
-                        <div className="new-arrivals">
-
-                          <h4 className="title">All Shoes</h4>
-
-                          <p></p>
-
-
-
-
-                        </div> */}
-
-
-
-
-
-
-                    
                     </div>
 
 
                 </div>
 
-
-
               </div>
 
+
+                  {/* WOMEN SECTION  */}
 
 
               <div className="new">
 
-                <label>Women</label>
+                <label onMouseOver={showitem} onMouseOut={hideitem}>Women</label>
+
+                <div className= {`${showelement ? 'new-featured' : 'hide-newFeatured'}`}>
+
+                </div>
+
+
+
 
               </div>
 
