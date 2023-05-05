@@ -54,6 +54,9 @@ function Nike() {
               
             </div>
 
+              {/* for the middle section, create a navbar which will be displayed in smaller screens showing the contents  */}
+
+              {/* the items remaining on the screen will only be the searchbar, love and shop */}
 
             <div className="middle">
 
@@ -254,28 +257,12 @@ function Nike() {
 
 
             </div>
-
-
-
-
-            
+ 
           </section>
-
-
-
-
-
-
 
 
         </nav>
 
-
-    
-    
-    
-    
-    
     </>
 
 
