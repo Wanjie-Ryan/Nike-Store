@@ -5,6 +5,7 @@ import {AiOutlineHeart,AiOutlineSearch} from 'react-icons/ai'
 import {BsBag} from 'react-icons/bs'
 
 
+ 
 
 
 function Nike() {

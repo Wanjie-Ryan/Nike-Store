@@ -111,8 +111,7 @@ function Jordan() {
 
                         </div>
 
-
-
+                        
                     </div>
 
 

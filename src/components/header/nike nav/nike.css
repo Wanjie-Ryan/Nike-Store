@@ -2,7 +2,7 @@
 
     
     width:100%;
-    position: relative;
+    /* position: relative; */
 }
 
 .nike-main{
@@ -199,4 +199,22 @@
  */
 
 
- 
+        /* for tablets */
+
+ @media screen and (max-width:768px) {
+
+    .nike{
+
+        width:100%;
+        background-color: red;
+    }
+
+    .nike-main{
+
+        max-width:768px;
+
+    }
+
+
+    
+ }
