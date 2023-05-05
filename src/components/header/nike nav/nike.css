@@ -138,6 +138,10 @@
 
 .icon-hearts{
 
+    margin-left: 2rem;
+    font-size: 1.6rem;
+    cursor: pointer;
+    display:none;
 
 }
 
@@ -226,6 +230,14 @@
 
 
         display:none;
+    }
+
+    .icon-hearts{
+        
+        display:block;
+        margin-left: 2rem;
+        font-size: 1.6rem;
+        cursor: pointer;
     }
 
 
