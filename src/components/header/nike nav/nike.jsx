@@ -3,8 +3,7 @@ import './nike.css'
 import {SiNike} from 'react-icons/si'
 import {AiOutlineHeart,AiOutlineSearch} from 'react-icons/ai'
 import {BsBag} from 'react-icons/bs'
-
-
+import {BiMenu} from 'react-icons/bi'
  
 
 
@@ -252,6 +251,13 @@ function Nike() {
 
                 <AiOutlineHeart className='icon-heart'/>
                 <BsBag className='icon-heart'/>
+
+              </div>
+
+              <div className="icons-nike">
+
+                <BiMenu className='icon-hearts'/>
+
 
               </div>
 

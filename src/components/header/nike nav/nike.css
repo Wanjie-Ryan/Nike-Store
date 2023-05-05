@@ -136,6 +136,11 @@
     cursor: pointer;
 }
 
+.icon-hearts{
+
+
+}
+
 .new-featured{
 
     position: absolute;
@@ -219,7 +224,8 @@
 
     .middle{
 
-        
+
+        display:none;
     }
 
 
