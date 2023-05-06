@@ -237,7 +237,8 @@
         display:block;
         margin-left: 2rem;
         font-size: 1.6rem;
-        cursor: pointer;
+        /* cursor: pointer; */
+
     }
 
 
