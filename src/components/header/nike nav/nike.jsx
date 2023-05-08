@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import './nike.css'
 import {SiNike} from 'react-icons/si'
-import {AiOutlineHeart,AiOutlineSearch} from 'react-icons/ai'
+import {AiOutlineHeart,AiOutlineSearch, AiOutlineClose} from 'react-icons/ai'
 import {BsBag} from 'react-icons/bs'
 import {BiMenu} from 'react-icons/bi'
  
@@ -268,6 +268,29 @@ function Nike() {
 
 
         </nav>
+
+
+        <side>
+
+          <div className="side-nav">
+
+
+          <AiOutlineClose/>
+
+
+
+
+
+
+
+
+          </div>
+
+
+
+        </side>
+
+
 
     </>
 
