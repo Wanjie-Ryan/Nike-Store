@@ -290,6 +290,36 @@ function Nike() {
             
             </div>
 
+            <div className="men">
+
+              <h3>Men</h3>
+
+              <AiOutlineArrowRight/> 
+
+
+            </div>
+
+
+            <div className="women">
+
+              <h3>Women</h3>
+
+              <AiOutlineArrowRight/> 
+
+
+
+            </div>
+
+            <div className="kids">
+
+              <h3>Kids</h3>
+
+              <AiOutlineArrowRight/> 
+
+            </div>
+
+            
+
 
 
           </div>
