@@ -318,7 +318,22 @@ function Nike() {
 
             </div>
 
-            
+            <div className="access">
+
+              <h3>Accessories</h3>
+
+              <AiOutlineArrowRight/>
+
+            </div>
+
+
+
+            <div className="nike-member">
+
+              <h3></h3>
+
+
+            </div>
 
 
 
