@@ -330,9 +330,16 @@ function Nike() {
 
             <div className="nike-member">
 
-              <h3></h3>
+              <h3>Become a Nike Member for the best products, inspiration and stories in sports. <span className ='learn-more'> Learn More </span></h3>
 
+            </div>
 
+            <div className="join-btns">
+
+              <button className="join">Join Us</button>
+              <button className="sign">Sign In</button>
+
+              
             </div>
 
 
