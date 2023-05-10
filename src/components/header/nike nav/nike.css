@@ -244,3 +244,22 @@
 
     
  }
+
+
+
+        /* STYLES FOR THE MENU */
+
+side{
+
+    display: flex;
+    flex-direction: column;
+    height:100%;
+    width:3rem;
+    /* background-color: brown; */
+}
+
+.menu{
+
+    background-color: brown;
+
+}

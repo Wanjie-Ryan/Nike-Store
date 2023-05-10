@@ -272,81 +272,86 @@ function Nike() {
 
         <side>
 
-          <div className="side-nav">
+          <div className="menu">
 
 
-            <AiOutlineClose/>
+
+              <div className="side-nav">
+
+
+                <AiOutlineClose/>
+
+
+              </div>
+
+              <div className="side-content">
+
+                <div className="new-arrivals">
+
+                  <h3>New Arrivals</h3> 
+
+                  <AiOutlineArrowRight/> 
+                
+                </div>
+
+                <div className="men">
+
+                  <h3>Men</h3>
+
+                  <AiOutlineArrowRight/> 
+
+
+                </div>
+
+
+                <div className="women">
+
+                  <h3>Women</h3>
+
+                  <AiOutlineArrowRight/> 
+
+
+
+                </div>
+
+                <div className="kids">
+
+                  <h3>Kids</h3>
+
+                  <AiOutlineArrowRight/> 
+
+                </div>
+
+                <div className="access">
+
+                  <h3>Accessories</h3>
+
+                  <AiOutlineArrowRight/>
+
+                </div>
+
+
+
+                <div className="nike-member">
+
+                  <h3>Become a Nike Member for the best products, inspiration and stories in sports. <span className ='learn-more'> Learn More </span></h3>
+
+                </div>
+
+                <div className="join-btns">
+
+                  <button className="join">Join Us</button>
+                  <button className="sign">Sign In</button>
+
+                  
+                </div>
+
+
+
+              </div>
 
 
           </div>
-
-          <div className="side-content">
-
-            <div className="new-arrivals">
-
-              <h3>New Arrivals</h3> 
-
-              <AiOutlineArrowRight/> 
-            
-            </div>
-
-            <div className="men">
-
-              <h3>Men</h3>
-
-              <AiOutlineArrowRight/> 
-
-
-            </div>
-
-
-            <div className="women">
-
-              <h3>Women</h3>
-
-              <AiOutlineArrowRight/> 
-
-
-
-            </div>
-
-            <div className="kids">
-
-              <h3>Kids</h3>
-
-              <AiOutlineArrowRight/> 
-
-            </div>
-
-            <div className="access">
-
-              <h3>Accessories</h3>
-
-              <AiOutlineArrowRight/>
-
-            </div>
-
-
-
-            <div className="nike-member">
-
-              <h3>Become a Nike Member for the best products, inspiration and stories in sports. <span className ='learn-more'> Learn More </span></h3>
-
-            </div>
-
-            <div className="join-btns">
-
-              <button className="join">Join Us</button>
-              <button className="sign">Sign In</button>
-
-              
-            </div>
-
-
-
-          </div>
-
-
 
         </side>
 
