@@ -270,4 +270,17 @@ side{
 
 }
 
+.side-nav .close{
 
+
+    float:right;
+    margin-top:1.3rem;
+    font-size: 1.4rem;
+    cursor:pointer;
+    /* right:0; */
+}
+
+.side-content{
+
+    margin-top: 4rem;
+}

@@ -279,7 +279,7 @@ function Nike() {
               <div className="side-nav">
 
 
-                <AiOutlineClose/>
+                <AiOutlineClose className ='close'/>
 
 
               </div>
