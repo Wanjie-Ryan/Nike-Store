@@ -1,6 +1,6 @@
 .nike{
 
-    
+    position: relative;
     width:100%;
     /* position: relative; */
 }
@@ -251,15 +251,23 @@
 
 side{
 
+    position: absolute;
+    top:0;
     display: flex;
     flex-direction: column;
-    height:100%;
-    width:3rem;
-    /* background-color: brown; */
+    /* height:100%; */
+    
 }
 
 .menu{
 
-    background-color: brown;
+    display: flex;
+    flex-direction: column;
+    height:100vh;
+    width:22%;
+    background-color: white;
+    /* background-color: brown; */
 
 }
+
+
