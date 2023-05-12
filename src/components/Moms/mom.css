@@ -1,0 +1,16 @@
+.mom-sec{
+
+    width:100%;
+    height:70vh;
+    margin-top: 5rem;
+    /* position: relative; */
+    background-color:red;
+}
+
+.nike-moms{
+
+    /* position: absolute ; */
+    width:70%;
+    background-color: brown;
+    margin: auto;
+}
