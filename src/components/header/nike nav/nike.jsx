@@ -290,43 +290,43 @@ function Nike() {
 
                   <h3>New Arrivals</h3> 
 
-                  <AiOutlineArrowRight/> 
+                  <AiOutlineArrowRight className='right-arrow'/> 
                 
                 </div>
 
-                <div className="men">
+                <div className="new-arrivals">
 
                   <h3>Men</h3>
 
-                  <AiOutlineArrowRight/> 
+                  <AiOutlineArrowRight className = 'right-arrow'/> 
 
 
                 </div>
 
 
-                <div className="women">
+                <div className="new-arrivals">
 
                   <h3>Women</h3>
 
-                  <AiOutlineArrowRight/> 
+                  <AiOutlineArrowRight className='right-arrow'/> 
 
 
 
                 </div>
 
-                <div className="kids">
+                <div className="new-arrivals">
 
                   <h3>Kids</h3>
 
-                  <AiOutlineArrowRight/> 
+                  <AiOutlineArrowRight className='right-arrow'/> 
 
                 </div>
 
-                <div className="access">
+                <div className="new-arrivals">
 
                   <h3>Accessories</h3>
 
-                  <AiOutlineArrowRight/>
+                  <AiOutlineArrowRight className='right-arrow'/>
 
                 </div>
 

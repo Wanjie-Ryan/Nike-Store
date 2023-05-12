@@ -264,9 +264,9 @@ side{
     display: flex;
     flex-direction: column;
     height:100vh;
-    width:22%;
-    background-color: white;
-    /* background-color: brown; */
+    width:35%;
+    /* background-color: white; */
+    background-color: brown;
 
 }
 
@@ -283,4 +283,75 @@ side{
 .side-content{
 
     margin-top: 4rem;
+
+
+}
+
+.new-arrivals{
+
+    display: flex;
+    flex-direction: row;
+    width:180px;
+    margin-top: 1.2rem;
+    margin-left: 10px;
+    /* justify-content: space-between; */
+    /* align-items: center; */
+    /* gap:4rem; */
+    
+}
+
+.new-arrivals h3{
+
+    cursor: pointer;
+}
+
+.new-arrivals .right-arrow{
+
+    /* text-align: center; */
+    margin-left: 18px;
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    cursor: pointer;
+    /* align-items: center; */
+}
+
+.nike-member{
+
+    margin-top:3rem;
+    padding: 5px;
+}
+
+.nike-member h3{
+
+    font-size: 17px;
+    line-height: 22px;
+}
+
+h3 .learn-more{
+
+    font-weight: bolder;  
+}
+
+.join-btns{
+
+    display: flex;
+    flex-direction: row;
+    margin-left: 2rem;
+    gap:1rem;
+    margin-top: 4rem;
+}
+
+.join-btns .join{
+
+    background-color: black;
+    color:white;
+    padding:10px;
+}
+
+
+.join-btns .sign{
+
+    
 }
