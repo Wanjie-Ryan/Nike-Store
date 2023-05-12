@@ -350,6 +350,14 @@ function Nike() {
                   
                 </div>
 
+                <div className="icons-nike">
+
+                <AiOutlineHeart className='icon-heart'/>
+                <BsBag className='icon-heart'/>
+
+              </div>
+
+
 
 
               </div>

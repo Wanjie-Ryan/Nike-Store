@@ -215,7 +215,7 @@
     .nike{
 
         width:100%;
-        background-color: red;
+        /* background-color: red; */
     }
 
     .nike-main{
@@ -224,6 +224,11 @@
         width:100%;
 
 
+    }
+
+    .icon-heart{
+
+        display: none;
     }
 
     .middle{
