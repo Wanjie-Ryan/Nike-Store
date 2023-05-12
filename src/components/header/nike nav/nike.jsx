@@ -12,6 +12,10 @@ function Nike() {
 
   const [showelement, setshowelement] = useState(false)
 
+  const [shownav, setshownav] = useState(false)
+
+  
+
 
 
   const showitem =()=>{
@@ -256,7 +260,7 @@ function Nike() {
 
               <div className="icons-nike">
 
-                <BiMenu className='icon-hearts'/>
+                <BiMenu className='icon-hearts' onClick ={()=> setshownav(!shownav)} />
 
 
               </div>
@@ -270,7 +274,7 @@ function Nike() {
         </nav>
 
 
-        <side>
+        {shownav &&( <side className ='hide-side show-side'>
 
           <div className="menu">
 
@@ -279,7 +283,7 @@ function Nike() {
               <div className="side-nav">
 
 
-                <AiOutlineClose className ='close'/>
+                <AiOutlineClose className ='close' onClick ={()=> setshownav(!shownav)} />
 
 
               </div>
@@ -353,7 +357,7 @@ function Nike() {
 
           </div>
 
-        </side>
+        </side>)}
 
 
 
