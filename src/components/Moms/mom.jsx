@@ -50,22 +50,11 @@ function Mom() {
 
 
 
-
-
-
-
-
             </div>
 
 
-
-
-
-
-
-
-
         </div>
+
     </main>
     
     
