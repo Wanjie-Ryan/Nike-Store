@@ -1,5 +1,10 @@
 import React from 'react'
 import './mom.css'
+import mom1 from '../../Images/mom1.jpg'
+import mom2 from '../../Images/mom2.jpg'
+import mom3 from '../../Images/mom3.jpg'
+
+
 
 
 function Mom() {
@@ -16,7 +21,41 @@ function Mom() {
 
         <div className="nike-moms">
 
-            <h3>fhhdhisdhd</h3>
+            <div className="images">
+
+                <div className="mom-1">
+
+                    <img src={mom1} alt="nike-mom" className="mom-one-nike" />
+
+
+
+                </div>
+
+                <div className="mom-1">
+
+                    <img src={mom2} alt="nike-mom" className="mom-one-nike" />
+
+
+
+                </div>
+
+
+                <div className="mom-1">
+
+                    <img src={mom3} alt="nike-mom" className="mom-one-nike" />
+
+
+
+                </div>
+
+
+
+
+
+
+
+
+            </div>
 
 
 

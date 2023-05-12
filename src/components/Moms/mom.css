@@ -4,13 +4,15 @@
     height:70vh;
     margin-top: 5rem;
     /* position: relative; */
-    background-color:red;
+
 }
 
 .nike-moms{
 
     /* position: absolute ; */
-    width:70%;
+    width:90%;
     background-color: brown;
     margin: auto;
+    height:70vh;
+
 }
