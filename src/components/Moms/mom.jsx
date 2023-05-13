@@ -21,6 +21,8 @@ function Mom() {
 
         <div className="nike-moms">
 
+            <div className="title"> <p>Best Offers for moms, over <span className="discount">30% off.</span></p> </div>
+
             <div className="images">
 
 
