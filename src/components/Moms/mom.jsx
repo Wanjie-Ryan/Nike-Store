@@ -33,7 +33,7 @@ function Mom() {
 
                 <div className="mom-1">
 
-                    <img src={mom2} alt="nike-mom" className="mom-one-nike" />
+                    <img src={mom2} alt="nike-mom" className="mom-two-nike" />
 
 
 
