@@ -23,15 +23,21 @@ function Mom() {
 
             <div className="images">
 
+
+
                 <div className="mom-1">
 
                     <img src={mom1} alt="nike-mom" className="mom-one-nike" />
 
-
+                        
 
                 </div>
 
+
+
                 <div className="mom-1">
+
+
 
                     <img src={mom2} alt="nike-mom" className="mom-two-nike" />
 
@@ -41,6 +47,7 @@ function Mom() {
 
 
                 <div className="mom-1">
+
 
                     <img src={mom3} alt="nike-mom" className="mom-one-nike" />
 

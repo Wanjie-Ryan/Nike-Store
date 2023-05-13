@@ -27,36 +27,59 @@
     margin:auto;
     padding:4rem;
     height: 100%;
-    gap:20rem;
+    gap:3rem;
     width:80%;
     
 }
 
+/* .mom-1{
+
+    flex:1;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mom-1 .mom-one-nike, .mom-1 .mom-two-nike{
+
+    max-width:100%;
+    max-height:100%;
+    object-fit: cover;
+} */
+
 .mom-1{
 
-    /* width:30%; */
-    flex:1;
+    width:30vw;
+    
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    /* width:1200px; */
+    /* flex:1; */
     height:100%;
-    /* background-color: black; */
+    
 
 }
 
 .mom-1 .mom-one-nike{
 
-    width:100%;
+    width:20vw;
     height:100%;
     object-fit: cover;
-    /* background-repeat: no-repeat; */
-    /* background-size: cover; */
-
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: pointer;
 }
 
 .mom-1 .mom-two-nike{
 
-    width:100%;
+    margin-top: 6rem;
+    width:20vw;
     height:100%;
-    /* object-fit: cover; */
+    object-fit: cover;
     background-repeat: no-repeat;
     background-size: cover;
+    cursor: pointer;
 
 }
