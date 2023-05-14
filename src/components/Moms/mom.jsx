@@ -51,7 +51,7 @@ function Mom() {
                 <div className="mom-1">
 
 
-                    <img src={mom3} alt="nike-mom" className="mom-one-nike" />
+                    <img src={mom3} alt="nike-mom" className="mom-three-nike" />
 
 
 
