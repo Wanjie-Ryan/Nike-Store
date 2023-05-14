@@ -112,10 +112,12 @@
     .brand-icons{
 
         margin-top: 10px;
+        margin-left: 0.5rem;
     }
 
+    
+
     .navigations{
-        margin-left:0;
         gap:1rem;
     }
 
