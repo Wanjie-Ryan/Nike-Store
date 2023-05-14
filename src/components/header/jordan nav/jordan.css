@@ -115,6 +115,7 @@
     }
 
     .navigations{
+        margin-left:0;
         gap:1rem;
     }
 
