@@ -36,6 +36,7 @@
     height: 60vh;
     object-fit: cover;
     position: relative;
+    cursor: pointer;
 }
 .nike-img-2{
 
@@ -43,7 +44,7 @@
     height: 60vh;
     object-fit: cover;
     position: relative;
-
+    cursor: pointer;
 }
 
  /* .imgok-cont{
