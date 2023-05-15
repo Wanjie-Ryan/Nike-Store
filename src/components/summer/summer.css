@@ -1,0 +1,39 @@
+.summer{
+
+    height:100vh;
+    width:100%;
+    margin-top:5rem;
+    
+}
+
+.heading-essentials{
+
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+}
+
+.heading-essentials h2{
+
+    font-size: 2.3rem;
+    font-weight: bolder;
+    color: #111;
+    margin-bottom: 1rem;
+
+}
+
+.heading-essentials h5{
+
+    font-size: 14px;
+    font-weight: 400;
+    color: #111;
+    margin-bottom: 1rem;
+
+}
+
+.btns{
+
+    
+}
