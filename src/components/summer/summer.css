@@ -21,7 +21,7 @@
     font-weight: bolder;
     color: #111;
     margin-bottom: 1rem;
-
+    cursor:pointer;
 }
 
 .heading-essentials h5{
@@ -30,10 +30,32 @@
     font-weight: 400;
     color: #111;
     margin-bottom: 1rem;
+    cursor:pointer;
+
 
 }
 
 .btns{
 
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    gap:1rem;
+
+}
+
+.btns button{
     
+        padding: 0.5rem 1rem;
+        border: none;
+        outline: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 14px;
+        font-weight: 500;
+        color: white;
+        background-color: black;
+        box-shadow: 0 0 5px rgba(0,0,0,0.3);
+        /* transition: all 0.3s ease; */
 }
