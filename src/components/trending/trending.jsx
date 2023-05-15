@@ -29,7 +29,7 @@ function Trending() {
 
                  <img src ={trending1} alt ='' className='nike-img-1'/>
 
-                 <div className="img-cont">
+                 {/* <div className="imgok-cont">
 
                   <p>Olympic Gold Medalist</p>
                   <SiNike/>
@@ -37,16 +37,26 @@ function Trending() {
 
 
                   </div>
-                 
+                  */}
                 </div>
 
                 
 
-                
+
 
                 <div className='img-2'> 
                 
                     <img src ={trending2} alt ='' className='nike-img-2'/>
+
+                    {/* <div className="imgok-cont">
+
+                      <p>Olympic Gold Medalist</p>
+                      <SiNike/>
+                      <p>Sha'Carri Richardson</p>
+
+
+                    </div> */}
+                 
                 
                 </div>
 

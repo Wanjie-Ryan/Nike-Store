@@ -35,24 +35,24 @@
     width:35vw;
     height: 60vh;
     object-fit: cover;
-    position: relative !important;
+    position: relative;
 }
 .nike-img-2{
 
     width:35vw;
     height: 60vh;
     object-fit: cover;
-    position: relative !important;
+    position: relative;
 
 }
 
- .img-cont{
+ /* .imgok-cont{
 
     display: flex;
     flex-direction: row;
-    position: absolute;
+    position: absolute !important;
     left:0;
     top:2px;
      top:0; 
     color:white;
-}  
+}   */
