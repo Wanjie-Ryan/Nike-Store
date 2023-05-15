@@ -30,22 +30,29 @@
     width:80%;
 }
 
-.img-1 .nike-img-1{
+.nike-img-1{
 
     width:35vw;
     height: 60vh;
     object-fit: cover;
-    position: relative;
+    position: relative !important;
 }
-
-
-.img-2 .nike-img-2{
+.nike-img-2{
 
     width:35vw;
     height: 60vh;
     object-fit: cover;
-    position: relative;
+    position: relative !important;
 
 }
 
+ .img-cont{
 
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    left:0;
+    top:2px;
+     top:0; 
+    color:white;
+}  
