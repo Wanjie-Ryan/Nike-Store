@@ -274,7 +274,13 @@ function Nike() {
         </nav>
 
 
-        {shownav &&( <side className ='hide-side show-side'>
+        {shownav &&(
+
+          <>
+          
+          <div className ='backdrop' onClick ={()=> setshownav(!shownav)}></div>
+          
+          <side className ='hide-side show-side'>
 
           <div className="menu">
 
@@ -365,7 +371,10 @@ function Nike() {
 
           </div>
 
-        </side>)}
+        </side>
+
+        </>
+        )}
 
 
 
