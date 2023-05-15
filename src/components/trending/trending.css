@@ -10,13 +10,14 @@
 .header-trends{
 
     margin-bottom: 10px;
+    font-weight: 700;
 }
 
 .image-conts{
 
     width:100%;
     height:100%;
-    margin-top: 20px;
+    margin-top: 30px;
 
 }
 
@@ -31,16 +32,20 @@
 
 .img-1 .nike-img-1{
 
-    width:30vw;
-    height: 30vh;
+    width:35vw;
+    height: 60vh;
     object-fit: cover;
+    position: relative;
 }
 
 
 .img-2 .nike-img-2{
 
-    width:30vw;
-    height: 30vh;
+    width:35vw;
+    height: 60vh;
     object-fit: cover;
+    position: relative;
 
 }
+
+

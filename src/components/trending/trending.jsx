@@ -28,6 +28,15 @@ function Trending() {
 
                  <img src ={trending1} alt ='' className='nike-img-1'/>
 
+                 <div className="img-cont">
+
+                  <p>Olympic Gold Medalist</p>
+                  
+                  <p>Sha'Carri Richardson</p>
+
+
+                 </div>
+
                 </div>
 
 
