@@ -1,15 +1,22 @@
 .trending{
 
     width:100%;
-    height:100vh;
-    margin-top: 0;
+
+    /* height:100vh; */
+    margin-top: 10rem;
     
+}
+
+.header-trends{
+
+    margin-bottom: 10px;
 }
 
 .image-conts{
 
     width:100%;
     height:100%;
+    margin: auto;
 }
 
 .img{

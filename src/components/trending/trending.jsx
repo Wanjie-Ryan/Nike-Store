@@ -16,7 +16,7 @@ function Trending() {
 
     <section className="trending">
 
-        <p>Trending</p>
+        <p className='header-trends'>Trending</p>
 
 
         <div className="image-conts">
