@@ -261,6 +261,18 @@
         margin-right: 0;
     }
 
+    side{
+
+        width:200vw;
+        /* background-color: red; */
+    }
+
+    .menu{
+
+        width:100vw;
+        /* background-color:red; */
+    }
+
 
     
  }
