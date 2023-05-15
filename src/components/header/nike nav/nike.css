@@ -231,6 +231,11 @@
         gap:0;
     }
 
+    .left{
+
+        margin-left: 0;
+    }
+
     .icon-heart{
 
         display: none;
