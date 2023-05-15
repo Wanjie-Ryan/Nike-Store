@@ -22,6 +22,7 @@
     color: #111;
     margin-bottom: 1rem;
     cursor:pointer;
+
 }
 
 .heading-essentials h5{
@@ -43,6 +44,7 @@
     margin-top: 2rem;
     gap:1rem;
 
+
 }
 
 .btns button{
@@ -59,3 +61,15 @@
         box-shadow: 0 0 5px rgba(0,0,0,0.3);
         /* transition: all 0.3s ease; */
 }
+
+@media screen and(max-width: 767px) {
+
+    .btns{
+
+        margin-top: 1rem;
+    }
+
+
+    
+}
+
