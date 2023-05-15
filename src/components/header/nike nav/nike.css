@@ -226,6 +226,11 @@
 
     }
 
+    .right{
+
+        gap:0;
+    }
+
     .icon-heart{
 
         display: none;
@@ -240,10 +245,15 @@
     .icon-hearts{
         
         display:block;
-        margin-left: 2rem;
+        /* margin-left: 2rem; */
         font-size: 1.6rem;
         cursor: pointer;
 
+    }
+
+    .icons-nike{
+
+        margin-right: 0;
     }
 
 
