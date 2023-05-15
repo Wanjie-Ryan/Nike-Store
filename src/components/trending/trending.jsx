@@ -1,5 +1,7 @@
 import React from 'react'
-
+import './trending.css'
+import trending1 from '../../Images/trending1.jpg'
+import trending2 from '../../Images/trending2.jpg'
 
 
 
@@ -14,7 +16,7 @@ function Trending() {
 
     <section className="trending">
 
-        <h2>Trending</h2>
+        <p>Trending</p>
 
 
         <div className="image-conts">
@@ -24,14 +26,14 @@ function Trending() {
                 <div className='img-1'>
 
 
-                 <img src ='https://unsplash.com/photos/gTTtXwqmKPQ' alt ='' className='nike-img-1'/>
+                 <img src ={trending1} alt ='' className='nike-img-1'/>
 
                 </div>
 
 
                 <div className='img-2'> 
                 
-                    <img src ='' alt ='' className='nike-img-2'/>
+                    <img src ={trending2} alt ='' className='nike-img-2'/>
                 
                 </div>
 
