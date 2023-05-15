@@ -2,7 +2,7 @@ import React from 'react'
 import './trending.css'
 import trending1 from '../../Images/trending1.jpg'
 import trending2 from '../../Images/trending2.jpg'
-import {SiNike} from 'react-icons/si'
+// import {SiNike} from 'react-icons/si'
 
 
 

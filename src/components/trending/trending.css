@@ -56,3 +56,13 @@
      top:0; 
     color:white;
 }   */
+
+
+@media screen and (max-width:768px) {
+    
+    .img{
+
+        display: flex;
+        flex-direction: column;
+    }
+}
