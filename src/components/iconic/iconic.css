@@ -63,15 +63,18 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 24px;
+  font-size: 14px;
   cursor: pointer;
   z-index: 10;
 }
 
 /* .always-iconic .swiper-button-next {
   right: 10px;
+  margin-left: 50rem;
 } */
 
 /* .always-iconic .swiper-button-prev {
   left: 20px;
+
+  margin-right: 100rem;
 } */
