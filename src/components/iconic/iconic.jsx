@@ -1,5 +1,9 @@
 import React from 'react';
 import './iconic.css';
+import { Navigation } from 'swiper';
+import { Swiper, SwiperSlide } from 'swiper/react';
+import 'swiper/css';
+import 'swiper/css/navigation'
 import img1 from '../../Images/shoes1.jpg';
 import img2 from '../../Images/shoes2.jpg';
 import img3 from '../../Images/shoes3.jpg';
@@ -50,28 +54,61 @@ function Iconic() {
   return (
 
 
+    
     <>
 
 
-      <section className="always-iconic">
-
-        <div className="iconic-cont">
-
-          <div className="text"><h3>Always Iconic</h3></div>
 
 
-          {dataImages.map((item) => (
-            <div key={item.id}>
-              <img src={item.img} alt={item.name} />
-              <p>{item.name}</p>
+          <section className="always-iconic">
+
+              <div className="text"><h3>Always Iconic</h3></div>
+
+            <div className="iconic-cont">
+
+
+            <Swiper
+  
+                modules={[Navigation]}
+                spaceBetween={10}
+                slidesPerView={3}
+                navigation
+                // pagination={{ clickable: true }}
+                // scrollbar={{ draggable: true }}
+                // onSwiper={(swiper) => console.log(swiper)}
+                // onSlideChange={() => console.log('slide change')}
+              >
+
+
+
+
+
+
+                    {dataImages.map((item) => (
+                      <SwiperSlide>
+                      <div key={item.id} className='img-cont-iconic'>
+
+                        <div className="nike-img">
+
+                          <img src={item.img} alt={item.name} className='iconic-imgs' />
+
+                        </div>
+
+                        <div className="iconic-img-text">
+                          <p>{item.name}</p>
+
+                        </div>
+                      </div>
+                      </SwiperSlide>
+                    ))}
+
+            </Swiper>
+                    
+
             </div>
-          ))}
 
 
-        </div>
-
-
-      </section>
+          </section>
     </>
   );
 }
