@@ -70,9 +70,10 @@ function Iconic() {
             <Swiper
   
                 modules={[Navigation]}
-                spaceBetween={10}
-                slidesPerView={3}
+                // spaceBetween={10}
+                slidesPerView={4}
                 navigation
+                loop
                 // pagination={{ clickable: true }}
                 // scrollbar={{ draggable: true }}
                 // onSwiper={(swiper) => console.log(swiper)}
@@ -85,12 +86,12 @@ function Iconic() {
 
 
                     {dataImages.map((item) => (
-                      <SwiperSlide>
-                      <div key={item.id} className='img-cont-iconic'>
+                  <SwiperSlide key={item.id} className='swiper' >
+                      <div className='img-cont-iconic'>
 
                         <div className="nike-img">
 
-                          <img src={item.img} alt={item.name} className='iconic-imgs' />
+                          <img src={item.img} alt={item.name} className='iconic-imgs ' />
 
                         </div>
 
@@ -99,7 +100,7 @@ function Iconic() {
 
                         </div>
                       </div>
-                      </SwiperSlide>
+                  </SwiperSlide>
                     ))}
 
             </Swiper>
