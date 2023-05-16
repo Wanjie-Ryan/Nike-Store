@@ -71,7 +71,7 @@ function Iconic() {
   
                 modules={[Navigation]}
                 // spaceBetween={10}
-                slidesPerView={4}
+                slidesPerView={3}
                 navigation
                 loop
                 // pagination={{ clickable: true }}
