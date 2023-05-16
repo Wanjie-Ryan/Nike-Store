@@ -4,7 +4,7 @@ import Mom from './components/Moms/mom'
 import Summer from './components/summer/summer'
 import Trending from './components/trending/trending'
 import Iconic from './components/iconic/iconic'
-
+import Air from './components/airmax/air'
 
 function App() {
 
@@ -22,6 +22,7 @@ function App() {
       <Summer/>
       <Trending/>
       <Iconic/>
+      <Air/>
 
 
     
