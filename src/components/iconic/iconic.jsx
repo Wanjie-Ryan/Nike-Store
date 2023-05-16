@@ -65,17 +65,29 @@ function Iconic() {
 
     <>
 
+      <section className="always-iconic">
+
+        <div className="iconic-text">Always Iconic</div>
+
+        <div className="iconic-cont">
+
+
+          {dataImages.map((item) => (
+              <div key={item.id}>
+                <img src={item[`img${item.id}`]} alt={item.name} />
+                <p>{item.name}</p>
+              </div>
+            ))}
+
+        </div>
 
 
 
 
+      </section>
 
-    
-    
-    
-    
-    
-    
+
+
     
     </>
 
