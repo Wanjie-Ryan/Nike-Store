@@ -5,13 +5,18 @@
     margin-top: 5rem;
 }
 
+.header-title p{
+
+    margin-bottom: 20px;
+}
+
 .air-cont{
 
     display: flex;
     /* flex-direction: column; */
     /* justify-content: center; */
     /* align-items: center; */
-    width:80%;
+    width:90%;
     margin:auto;
     /* margin-top: 20px; */
 }
@@ -20,18 +25,24 @@
 
     display:flex;
     flex-direction:row;
+    /* gap:2rem; */
+    /* margin-left:2rem; */
 }
 
 .img-max{
     
-    gap:2rem;
+    /* display: flex; */
     width:20%;
     height: 100%;
 }
 
 .shoe-img-max{
 
-    width:20vw;
+    display: flex;
+    border:2px solid black;
+    /* gap:2rem; */
+    width:23vw;
     object-fit: cover;
+    cursor:pointer;
     height: 100%;
 }
