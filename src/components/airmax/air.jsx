@@ -18,6 +18,8 @@ function Air() {
 
         <section className="air-max">
 
+            <div className="header-title"><p> Air Max</p></div>
+
             <div className="air-cont">
 
 

@@ -1,0 +1,19 @@
+.air-max{
+
+    height:80vh;
+    width:100%;
+    margin-top: 5rem;
+}
+
+.air-cont{
+
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    width:80%;
+    margin:auto;
+    /* margin-top: 5rem; */
+}
+
+.
