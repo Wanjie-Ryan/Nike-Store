@@ -13,7 +13,24 @@
     align-items: center;
     width:80%;
     margin:auto;
-    /* margin-top: 5rem; */
+    margin-top: 20px;
 }
 
-.
+.max{
+
+    display:flex;
+    flex-direction:row;
+    gap:2rem;
+}
+
+.img-max{
+
+    width:20%;
+    height: 100%;
+}
+
+.shoe-img-max{
+
+    width:30vw;
+    height: 100%;
+}
