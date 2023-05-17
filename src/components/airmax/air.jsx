@@ -1,5 +1,11 @@
 import React from 'react'
 import './air.css'
+import shoe7 from '../../Images/shoes7.jpg'
+import shoe6 from '../../Images/shoes6.jpg'
+import shoe5 from '../../Images/shoes5.jpg'
+
+
+
 
 
 function Air() {
@@ -19,19 +25,19 @@ function Air() {
 
                     <div className="img-max">
 
-                        <img src="" alt="" className="shoe-img-max" />
+                        <img src={shoe7} alt="" className="shoe-img-max" />
 
                     </div>
 
                     <div className="img-max">
 
-                        <img src="" alt="" className="shoe-img-max" />
+                        <img src={shoe6} alt="" className="shoe-img-max" />
 
                     </div>
 
                     <div className="img-max">
 
-                        <img src="" alt="" className="shoe-img-max" />
+                        <img src={shoe5} alt="" className="shoe-img-max" />
 
                     </div>
 
