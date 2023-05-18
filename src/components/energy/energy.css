@@ -25,3 +25,14 @@
     margin-top: 20px;
     font-size: 12px;
 }
+
+.energy_container button{
+
+    margin-top: 20px;
+    padding:20px;
+    border-radius: 10px;
+    background-color: black;
+    color:white;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.5);
+}

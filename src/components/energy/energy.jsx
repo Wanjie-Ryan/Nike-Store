@@ -30,6 +30,61 @@ function Energy() {
 
         </div>
 
+        <section className="fresh-styles">
+
+
+            <div className="fresh-styles_container">
+
+                <div className="fresh-cont">
+
+                    <div className="fresh-img">
+
+                        <img src="" alt="" className="img-style" />
+
+
+                    </div>
+
+                    <div className="fresh-img">
+
+                        <img src="" alt="" className="img-style" />
+
+
+                    </div>
+
+                    <div className="fresh-img">
+
+                        <img src="" alt="" className="img-style" />
+
+
+                    </div>
+
+
+
+
+
+
+                </div>
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+
+
+
+
+
+
+
+        </section>
+
 
 
 
