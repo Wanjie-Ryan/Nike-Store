@@ -1,6 +1,8 @@
 import React from 'react'
 import './energy.css'
-
+import person1 from '../../Images/personwshoe1.jpg'
+import person2 from '../../Images/personwshoe2.jpg'
+import person3 from '../../Images/personwshoe3.jpg'
 
 
 
@@ -39,21 +41,21 @@ function Energy() {
 
                     <div className="fresh-img">
 
-                        <img src="" alt="" className="img-style" />
+                        <img src={person3} alt="person" className="img-style" />
 
 
                     </div>
 
                     <div className="fresh-img">
 
-                        <img src="" alt="" className="img-style" />
+                        <img src={person1} alt="person" className="img-style" />
 
 
                     </div>
 
                     <div className="fresh-img">
 
-                        <img src="" alt="" className="img-style" />
+                        <img src={person2} alt="person" className="img-style" />
 
 
                     </div>
