@@ -5,6 +5,8 @@ import Summer from './components/summer/summer'
 import Trending from './components/trending/trending'
 import Iconic from './components/iconic/iconic'
 import Air from './components/airmax/air'
+import Energy from './components/energy/energy'
+
 
 function App() {
 
@@ -23,6 +25,7 @@ function App() {
       <Trending/>
       <Iconic/>
       <Air/>
+      <Energy/>
 
 
     
