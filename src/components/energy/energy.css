@@ -51,13 +51,22 @@
         display: flex;
         flex-direction: row;
         width:90%;
+        background-color: red;
+        /* margin-left:auto; */
+
+        /* margin-right:auto; */
+
         justify-content: center;
         align-items: center;
-        gap:1.4rem;
-}
-
+        /* margin:auto; */
+        margin-top: 1.2rem;
+        gap:10rem;
+        /* margin-right:200rem; */
+    }
+    
 .fresh-img{
-
+        
+    /* gap:1.4rem; */
     width:20%;
     height: 100%;
     display:flex;
@@ -67,7 +76,9 @@
 
 .fresh-img .img-style{
 
-    width:200px;
-    height:100%;
+    width:400px;
+    height:450px;
+    /* margin-right:20px; */
+    cursor: pointer;
     object-fit: cover;
 }

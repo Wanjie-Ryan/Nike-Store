@@ -35,7 +35,7 @@ function Energy() {
         <section className="fresh-styles">
 
 
-            <div className="fresh-styles_container">
+            {/* <div className="fresh-styles_container"> */}
 
                 <h3>Fresh Sales Styles</h3>
 
@@ -68,7 +68,7 @@ function Energy() {
 
 
                 </div>
-            </div>
+            {/* </div> */}
 
         </section>
 
