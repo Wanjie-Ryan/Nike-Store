@@ -37,6 +37,8 @@ function Energy() {
 
             <div className="fresh-styles_container">
 
+                <h3>Fresh Sales Styles</h3>
+
                 <div className="fresh-cont">
 
                     <div className="fresh-img">
@@ -66,35 +68,10 @@ function Energy() {
 
 
                 </div>
-
-
-
-
-
-
-
-
-
-
-
             </div>
-
-
-
-
-
-
 
         </section>
 
-
-
-
-    
-    
-    
-    
-    
     </>
 
 
