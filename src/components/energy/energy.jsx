@@ -46,11 +46,40 @@ function Energy() {
                         <img src={person3} alt="person" className="img-style" />
 
 
+                        <div className="price-details">
+
+                            <p className="text-dress">
+                                Child's Nike Dress, real cotton.
+                            </p>
+
+                            <p className="text-dress">
+                                Nike dress
+                            </p>
+
+
+
+                        </div>
+
                     </div>
 
                     <div className="fresh-img">
 
                         <img src={person1} alt="person" className="img-style" />
+
+                        <div className="price-details">
+
+                            <p className="text-dress">
+                                Child's Nike Dress, real cotton.
+                            </p>
+
+                            <p className="text-dress">
+                                Nike dress
+                            </p>
+
+
+
+                        </div>
+
 
 
                     </div>
@@ -58,6 +87,21 @@ function Energy() {
                     <div className="fresh-img">
 
                         <img src={person2} alt="person" className="img-style" />
+
+                        <div className="price-details">
+
+                            <p className="text-dress">
+                                Child's Nike Dress, real cotton.
+                            </p>
+
+                            <p className="text-dress">
+                                Nike dress
+                            </p>
+
+
+
+                        </div>
+
 
 
                     </div>
