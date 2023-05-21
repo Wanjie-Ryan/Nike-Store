@@ -100,3 +100,23 @@
     font-size: 1.2rem;
     font-weight: bolder;
 }
+
+@media screen and (max-width:768px){
+
+    .energy{
+
+        margin-top:10px;
+    }
+
+    .energy_container{
+
+        margin:auto;
+    }
+
+    .energy_container .text-energy{
+
+        text-align: center;
+    }
+
+
+}
