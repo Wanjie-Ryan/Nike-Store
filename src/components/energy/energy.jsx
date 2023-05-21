@@ -53,7 +53,7 @@ function Energy() {
                             </p>
 
                             <p className="text-dress">
-                                Nike dress
+                                Nike dress: <span className="price">$20</span> 
                             </p>
 
 
@@ -73,7 +73,7 @@ function Energy() {
                             </p>
 
                             <p className="text-dress">
-                                Nike dress
+                                Nike dress: <span className="price">$20</span>  
                             </p>
 
 
@@ -95,7 +95,7 @@ function Energy() {
                             </p>
 
                             <p className="text-dress">
-                                Nike dress
+                                Nike dress: <span className="price">$20</span>
                             </p>
 
 

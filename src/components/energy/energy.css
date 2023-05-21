@@ -83,3 +83,20 @@
     cursor: pointer;
     object-fit: cover;
 }
+
+.price-details{
+
+    margin-top:15px;
+}
+
+.price-details .text-dress{
+
+    text-align: center;
+    margin-top:2px;
+}
+
+.text-dress .price{
+
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
