@@ -119,5 +119,12 @@
         font-size: 18px;
     }
 
+    .fresh-cont{
+
+        display: flex;
+        flex-direction: column;
+        width:100%;
+    }
+
 
 }
