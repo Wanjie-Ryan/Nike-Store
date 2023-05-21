@@ -6,6 +6,9 @@ import Trending from './components/trending/trending'
 import Iconic from './components/iconic/iconic'
 import Air from './components/airmax/air'
 import Energy from './components/energy/energy'
+import Member from './components/membership/member'
+
+
 
 
 function App() {
@@ -26,7 +29,7 @@ function App() {
       <Iconic/>
       <Air/>
       <Energy/>
-
+      <Member/>
 
     
     </>
