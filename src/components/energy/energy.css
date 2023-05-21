@@ -103,10 +103,10 @@
 
 @media screen and (max-width:768px){
 
-    .energy{
+    /* .energy{
 
         margin-top:10px;
-    }
+    } */
 
     .energy_container{
 
@@ -116,6 +116,7 @@
     .energy_container .text-energy{
 
         text-align: center;
+        font-size: 18px;
     }
 
 
