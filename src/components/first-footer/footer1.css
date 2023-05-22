@@ -51,5 +51,10 @@
 
         margin-left: 5px;
     }
+
+    .inner-featured h6{
+
+        font-size: 10px;
+    }
     
 }
