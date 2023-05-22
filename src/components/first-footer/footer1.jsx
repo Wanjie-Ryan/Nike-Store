@@ -55,14 +55,14 @@ function Footer1() {
 
                 <div className="featured">
 
-                    <h5>Featured</h5>
+                    <h5>Clothing</h5>
 
                     <div className="inner-featured">
 
-                        <h6>Air Force 1</h6>
-                        <h6>Jordan 1</h6>
-                        <h6>Metcon</h6>
-                        <h6>Air Max 270</h6>
+                        <h6>All Clothing</h6>
+                        <h6>Tops & T-Shirts</h6>
+                        <h6>Shorts</h6>
+                        <h6>Hoodies & Pullovers</h6>
 
                     </div>
 
@@ -73,14 +73,14 @@ function Footer1() {
 
                 <div className="featured">
 
-                    <h5>Featured</h5>
+                    <h5>Kids'</h5>
 
                     <div className="inner-featured">
 
-                        <h6>Air Force 1</h6>
-                        <h6>Jordan 1</h6>
-                        <h6>Metcon</h6>
-                        <h6>Air Max 270</h6>
+                        <h6>Infant & Toodler Shoes</h6>
+                        <h6>Kids' Shoes</h6>
+                        <h6>Kids' Basketball Shoes</h6>
+                        <h6>Kids' Running Shoes</h6>
 
                     </div>
 
