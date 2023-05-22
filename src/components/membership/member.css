@@ -38,9 +38,10 @@
     padding: 8px;
     margin-top:2rem;
     margin-right: 10px;
-    color:white;
-    background-color: black;
+    color:black;
+    background-color: white;
     border:none;
-    border-radius: 5px;
+    cursor: pointer;
+    border-radius: 8px;
     outline: none;
 }
