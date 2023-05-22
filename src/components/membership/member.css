@@ -14,7 +14,33 @@
     justify-content: center;
     gap:20rem;
     width:90%;
-    height: 20vh;
+    height: 30vh;
     background-color: black;
     color:white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.membership__item .text-member{
+
+    font-weight: bolder;
+    font-size: 1.5rem;
+    margin-top: 5rem;
+}
+
+.membership__item .community{
+
+    margin-top: 9px;
+    font-size: 12px;
+}
+
+.membership__item .btn{
+
+    padding: 8px;
+    margin-top:2rem;
+    margin-right: 10px;
+    color:white;
+    background-color: black;
+    border:none;
+    border-radius: 5px;
+    outline: none;
 }
