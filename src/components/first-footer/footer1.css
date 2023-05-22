@@ -1,0 +1,30 @@
+.footer1{
+
+    margin-top: 4rem;
+    width:100%;
+
+}
+
+.middle-footer-1{
+
+    display: flex;
+    flex-direction: row;
+    width:80%;
+    margin-top: 5rem;
+    margin-left:auto;
+    margin-right: auto;
+    justify-content: center;
+    gap:6rem;
+}
+
+.featured h5{
+
+    margin-bottom: 12px;
+    font-weight: bold;
+}
+
+.inner-featured h6{
+
+    margin-bottom: 4px;
+    cursor: pointer;
+}
