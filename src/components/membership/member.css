@@ -45,3 +45,14 @@
     border-radius: 8px;
     outline: none;
 }
+
+.nike-logo{
+
+    margin-top:5rem;
+}
+
+.nike-logo .nike-logo__icon{
+
+    font-size: 10rem;
+    cursor: pointer;
+}
