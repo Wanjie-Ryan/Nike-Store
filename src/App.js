@@ -7,7 +7,7 @@ import Iconic from './components/iconic/iconic'
 import Air from './components/airmax/air'
 import Energy from './components/energy/energy'
 import Member from './components/membership/member'
-
+import Footer1 from './components/first-footer/footer1'
 
 
 
@@ -30,6 +30,7 @@ function App() {
       <Air/>
       <Energy/>
       <Member/>
+      <Footer1/>
 
     
     </>
