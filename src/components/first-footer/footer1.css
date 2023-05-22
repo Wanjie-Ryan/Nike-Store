@@ -28,3 +28,28 @@
     margin-bottom: 4px;
     cursor: pointer;
 }
+
+@media screen and (max-width:768px) {
+
+    .footer1{
+
+        width:100%;
+    }
+
+    .middle-footer-1{
+
+        width:100%;
+        gap:2rem;
+    }
+
+    .featured{
+
+        margin-left: 5px;
+    }
+
+    .inner-featured{
+
+        margin-left: 5px;
+    }
+    
+}
