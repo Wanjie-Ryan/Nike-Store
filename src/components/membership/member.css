@@ -55,4 +55,10 @@
 
     font-size: 10rem;
     cursor: pointer;
+    font-weight: bolder;
+}
+
+@media screen and (max-width:768px){
+
+    
 }
