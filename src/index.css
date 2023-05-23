@@ -9,3 +9,15 @@
   font-family: 'Noto Sans', sans-serif;
   /* background-color: white; */
 }
+
+/* body {
+  overflow: hidden;
+}
+
+body::-webkit-scrollbar {
+  width: 1px;
+}
+
+body::-webkit-scrollbar {
+  visibility: hidden;
+} */
