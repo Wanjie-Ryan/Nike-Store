@@ -23,7 +23,7 @@ function Mainf() {
                   <h5>Find a Store</h5>
                   <h5>Become A Member</h5>
                   <h5>Nike Journal</h5>
-
+                  <h5>Send Us Feedback</h5>
 
 
 
@@ -31,11 +31,26 @@ function Mainf() {
 
                 <div className="footer-2">
 
+                  <h5>Get Help</h5>
+
+                  <h6>Order Status</h6>
+                  <h6>Shipping and Delivery</h6>
+                  <h6>Shipping and Delivery</h6>
+                  <h6>Returns</h6>
+                  <h6>Order cancellations</h6>
+                  <h6>Payment Options</h6>
+                  <h6>Gift Card Balance</h6>
+                  <h6>Contact Us</h6> 
 
 
                 </div>
 
                 <div className="footer-3">
+
+                  <h5>About Nike</h5>
+
+                  <h5>About Nike</h5>
+
 
 
 
