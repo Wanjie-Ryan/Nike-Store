@@ -1,5 +1,9 @@
 import React from 'react'
 import  './mainf.css'
+import {FiTwitter} from 'react-icons/fi'
+
+
+
 
 
 function Mainf() {
@@ -49,11 +53,11 @@ function Mainf() {
 
                   <h5>About Nike</h5>
 
-                  <h5>About Nike</h5>
-
-
-
-
+                  <h6>News</h6>
+                  <h6>Careers</h6>
+                  <h6>Investors</h6>
+                  <h6>Purpose</h6>
+                  <h6>Sustainability</h6>
 
 
 
