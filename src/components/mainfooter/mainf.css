@@ -59,18 +59,22 @@
 .links{
 
     margin-top: 3rem;
-    background-color: red;
+    /* background-color: red; */
     width:200px;
     height:200px;
+    display: flex;
+    flex-direction: row;
 }
 
-.icons-links{
 
-    color:black;
+
+.icons-links{
+    
     background-color: rgb(134, 133, 133);
+    color:black;
     margin-right: 20px;
     padding:8px;
-    font-size: 20px;
+    font-size: 40px;
     border-radius: 2px;
-
+    cursor: pointer;
 }
