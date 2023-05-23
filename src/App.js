@@ -8,7 +8,7 @@ import Air from './components/airmax/air'
 import Energy from './components/energy/energy'
 import Member from './components/membership/member'
 import Footer1 from './components/first-footer/footer1'
-
+import MainFooter from './components/mainfooter/mainf'
 
 
 function App() {
@@ -31,6 +31,7 @@ function App() {
       <Energy/>
       <Member/>
       <Footer1/>
+      <MainFooter/>
 
     
     </>
