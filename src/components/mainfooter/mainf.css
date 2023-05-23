@@ -56,8 +56,18 @@
     /* margin-top: 1rem; */
 }
 
+.links{
+
+    margin-top: 3rem;
+}
+
 .icons-links{
 
     color:black;
     background-color: rgb(134, 133, 133);
+    margin-right: 20px;
+    /* padding:10px; */
+    font-size: 15px;
+    /* border-radius: 2px; */
+
 }
