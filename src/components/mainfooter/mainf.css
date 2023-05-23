@@ -14,6 +14,7 @@
     width:90%;
     margin-left:auto;
     margin-right:auto;
+    gap:5rem;
 }
 
 .footer-1 {
@@ -27,5 +28,30 @@
 
     font-size: 11px;
     margin-bottom: 10px;
+    cursor: pointer;
 
+}
+
+.footer-2{
+
+    margin-top: 3rem;
+}
+
+.footer-2 h5{
+
+    color:white;
+    font-size: 11px;
+    margin-bottom: 10px;
+    cursor: pointer;
+
+}
+
+.footer-2 h6{
+
+    color:rgb(134, 133, 133);
+    font-size: 11px;
+    margin-bottom: 10px;
+    cursor: pointer;
+
+    /* margin-top: 1rem; */
 }
