@@ -1,6 +1,7 @@
 import React from 'react'
 import  './mainf.css'
 import {FiTwitter} from 'react-icons/fi'
+import {BsFacebook,BsYoutube,BsInstagram} from 'react-icons/bs'
 
 
 
@@ -66,6 +67,11 @@ function Mainf() {
 
                 <div className="links">
 
+                  <FiTwitter/>
+                  <BsFacebook/>
+                  <BsYoutube/>
+                  <BsInstagram/>
+
 
 
                     
@@ -78,18 +84,9 @@ function Mainf() {
             </section>
 
 
-
-
-
-
-
-
         </footer>
 
 
-    
-    
-    
     
     </>
 
