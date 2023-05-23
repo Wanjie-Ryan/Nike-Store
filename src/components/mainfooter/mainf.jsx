@@ -50,7 +50,7 @@ function Mainf() {
 
                 </div>
 
-                <div className="footer-3">
+                <div className="footer-2">
 
                   <h5>About Nike</h5>
 
@@ -67,10 +67,10 @@ function Mainf() {
 
                 <div className="links">
 
-                  <FiTwitter/>
-                  <BsFacebook/>
-                  <BsYoutube/>
-                  <BsInstagram/>
+                  <FiTwitter className='icons-links'/>
+                  <BsFacebook className='icons-links'/>
+                  <BsYoutube className='icons-links'/>
+                  <BsInstagram className='icons-links'/>
 
 
 
