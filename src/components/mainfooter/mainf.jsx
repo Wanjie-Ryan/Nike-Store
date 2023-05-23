@@ -67,10 +67,10 @@ function Mainf() {
 
                 <div className="links">
 
-                  <FiTwitter className='icons-links'/>
-                  <BsFacebook className='icons-links'/>
-                  <BsYoutube className='icons-links'/>
-                  <BsInstagram className='icons-links'/>
+                  <div className="twit"><FiTwitter className='icons-links'/></div>
+                  <div className="twit"><BsFacebook className='icons-links'/></div>
+                  <div className="twit"><BsYoutube className='icons-links'/></div>
+                  <div className="twit"><BsInstagram className='icons-links'/></div>
 
 
 

@@ -59,6 +59,9 @@
 .links{
 
     margin-top: 3rem;
+    background-color: red;
+    width:200px;
+    height:200px;
 }
 
 .icons-links{
@@ -66,8 +69,8 @@
     color:black;
     background-color: rgb(134, 133, 133);
     margin-right: 20px;
-    /* padding:10px; */
-    font-size: 15px;
-    /* border-radius: 2px; */
+    padding:8px;
+    font-size: 20px;
+    border-radius: 2px;
 
 }
